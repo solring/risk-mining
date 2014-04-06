@@ -1,0 +1,1 @@
+CKIPClient.exe ckipsocket.propeties test\in test\out

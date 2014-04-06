@@ -1,0 +1,6 @@
+host=140.109.19.104
+port=1501
+user=solring
+pass=stopword
+overwrite=true
+charsetcode=utf-8

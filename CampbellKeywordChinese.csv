@@ -1,0 +1,608 @@
+反接收, Financial
+銀行負債, Financial
+銀行債務, Financial
+銀行借款, Financial
+資本支出, Financial
+資本租賃, Financial
+籌資租賃, Financial
+擔保品, Financial
+抵押品, Financial
+所有權集中協定, Financial
+所有權集中條款, Financial
+信貸措施, Financial
+債信評等, Financial
+信用評等, Financial
+信用評級, Financial
+信貸評級, Financial
+信用風險, Financial
+債務負擔, Financial
+負債負擔, Financial
+股票價格下跌, Financial
+股票價格跌降, Financial
+遲延履約, Financial
+違約, Financial
+確定給付制, Financial
+確定給付退休金計畫, Financial
+稀釋, Financial
+產權減損, Financial
+股利, Financial
+紅利, Financial
+降等, Financial
+降級, Financial
+降低保密等級, Financial
+家族, Financial
+家庭, Financial
+財務狀況, Financial
+資金成本, Financial
+提供資金的狀況, Financial
+有固定利息的情況, Financial
+長期借款的狀況, Financial
+資金狀況, Financial
+非現金的市場, Financial
+不易變現的市場, Financial
+非流動市場, Financial
+改量, Financial
+改良物, Financial
+債務, Financial
+負債, Financial
+組織內的銷售計畫, Financial
+熟悉內幕的銷售計畫, Financial
+內部銷售, Financial
+內部人買賣, Financial
+投資機器設備, Financial
+投資租賃工廠設備, Financial
+租約承諾, Financial
+約定, Financial
+挺率，財務槓桿作用, Financial
+槓桿作用, Financial
+制衡作用, Financial
+融資租賃, Financial
+有限的買賣, Financial
+有限的貿易, Financial
+被限制的交易, Financial
+流動性；變現性, Financial
+清償力, Financial
+貸款, Financial
+借款, Financial
+鎖在租賃期間, Financial
+命令的捐助, Financial
+義務的貢獻, Financial
+強制捐贈, Financial
+強制出資, Financial
+強制課稅, Financial
+到期, Financial
+到期日, Financial
+負的營運現金流量, Financial
+新的融資, Financial
+新的理財, Financial
+新的資金籌集, Financial
+負擔, Financial
+責任, Financial
+營運損失, Financial
+跌破面值股票, Financial
+零股, Financial
+退休後, Financial
+分等, Financial
+評等, Financial
+重新借款, Financial
+重新集資金, Financial
+再保險, Financial
+重議價, Financial
+改組, Financial
+重整, Financial
+準備率, Financial
+左輪手槍, Financial
+出售有生產效益的資產, Financial
+銷售生產性的資產, Financial
+股票市場上市, Financial
+股票價格下降, Financial
+股票價格下跌, Financial
+股票價格波動性, Financial
+資金不足的養老金, Financial
+承銷, Financial
+易變的營業結果, Financial
+波動性的營業成績, Financial
+波動性的收入, Financial
+易變的收益, Financial
+易變的銷售, Financial
+波動性的銷售, Financial
+營運資金, Financial
+運用資本, Financial
+購併, Idiosyncratic
+收購, Idiosyncratic
+適當的用人, Idiosyncratic
+適當的安置, Idiosyncratic
+足夠的配備職工, Idiosyncratic
+廣告, Idiosyncratic
+資產受損, Idiosyncratic
+資產減損, Idiosyncratic
+資產證券化, Idiosyncratic
+同化, Idiosyncratic
+積壓訂貨, Idiosyncratic
+滯銷貨, Idiosyncratic
+未處理的事務, Idiosyncratic
+品牌, Idiosyncratic
+品牌認知, Idiosyncratic
+加州電力危機, Idiosyncratic
+證明, Idiosyncratic
+驗證, Idiosyncratic
+證書, Idiosyncratic
+認證, Idiosyncratic
+臨床試驗, Idiosyncratic
+臨床實驗, Idiosyncratic
+商業化, Idiosyncratic
+營利化, Idiosyncratic
+集中度, Idiosyncratic
+集中, Idiosyncratic
+合併, Idiosyncratic
+創立合併, Idiosyncratic
+建築工程合約著作權, Idiosyncratic
+企業文化, Idiosyncratic
+成本控制, Idiosyncratic
+消費者集中度, Idiosyncratic
+顧客集中度, Idiosyncratic
+客戶集中度, Idiosyncratic
+顧客服務, Idiosyncratic
+交貨，交割, Idiosyncratic
+分配, Idiosyncratic
+發行, Idiosyncratic
+配銷, Idiosyncratic
+經銷商, Idiosyncratic
+組織縮編, Idiosyncratic
+裁員, Idiosyncratic
+縮減規模, Idiosyncratic
+規模經濟, Idiosyncratic
+禁運, Idiosyncratic
+安隆公司, Idiosyncratic
+擴展, Idiosyncratic
+擴張, Idiosyncratic
+膨脹, Idiosyncratic
+擴展, Idiosyncratic
+擴展, Idiosyncratic
+擴充, Idiosyncratic
+出口, Idiosyncratic
+外銷, Idiosyncratic
+設備, Idiosyncratic
+設施, Idiosyncratic
+經營特許權, Idiosyncratic
+加盟事業, Idiosyncratic
+特許權, Idiosyncratic
+特許加盟, Idiosyncratic
+專營權, Idiosyncratic
+加盟被授權者, Idiosyncratic
+商譽, Idiosyncratic
+商譽減損, Idiosyncratic
+商譽損害, Idiosyncratic
+虧絀, Idiosyncratic
+損害, Idiosyncratic
+減損, Idiosyncratic
+資訊科技, Idiosyncratic
+信息科技, Idiosyncratic
+資訊技術, Idiosyncratic
+創新, Idiosyncratic
+承保範圍, Idiosyncratic
+無形的整合, Idiosyncratic
+無形體的整合, Idiosyncratic
+理性的, Idiosyncratic
+知性的, Idiosyncratic
+用智力的, Idiosyncratic
+知識份子, Idiosyncratic
+有智慧的, Idiosyncratic
+知識的, Idiosyncratic
+內部控制, Idiosyncratic
+網際網路, Idiosyncratic
+投資附屬公司, Idiosyncratic
+投資子公司, Idiosyncratic
+IT, Idiosyncratic
+I.T., Idiosyncratic
+短期合營, Idiosyncratic
+合資, Idiosyncratic
+合資經營, Idiosyncratic
+聯合開發, Idiosyncratic
+持續保有高階管理, Idiosyncratic
+高階管理層, Idiosyncratic
+高層管理, Idiosyncratic
+高階主管, Idiosyncratic
+主要人事, Idiosyncratic
+重要人員, Idiosyncratic
+關鍵人員, Idiosyncratic
+人工成本, Idiosyncratic
+勞動成本, Idiosyncratic
+勞資關係, Idiosyncratic
+勞工關係, Idiosyncratic
+勞動關係, Idiosyncratic
+工會執照, Idiosyncratic
+勞工聯盟許可證, Idiosyncratic
+有限的經營歷史, Idiosyncratic
+維持, Idiosyncratic
+維護費, Idiosyncratic
+維持期, Idiosyncratic
+管理保留, Idiosyncratic
+經營維持, Idiosyncratic
+市場接受性, Idiosyncratic
+市場接受度, Idiosyncratic
+行銷, Idiosyncratic
+重大缺失, Idiosyncratic
+不動產抵押證券, Idiosyncratic
+不動產抵押證券, Idiosyncratic
+結合, Idiosyncratic
+併購, Idiosyncratic
+合併, Idiosyncratic
+購併, Idiosyncratic
+吸收合併, Idiosyncratic
+不動產抵押證券, Idiosyncratic
+抵押貸款服務權, Idiosyncratic
+天然災害, Idiosyncratic
+自然災害, Idiosyncratic
+新建工程, Idiosyncratic
+新產品允收, Idiosyncratic
+新產品可接納性, Idiosyncratic
+新產品接受度, Idiosyncratic
+新產品發展, Idiosyncratic
+目前沒有運作, Idiosyncratic
+沒有運轉, Idiosyncratic
+沒有作業, Idiosyncratic
+無現行作業, Idiosyncratic
+線上的, Idiosyncratic
+電腦聯線, Idiosyncratic
+訂單, Idiosyncratic
+程度, Idiosyncratic
+等級, Idiosyncratic
+訂貨, Idiosyncratic
+專利, Idiosyncratic
+專利權, Idiosyncratic
+人事, Idiosyncratic
+人員, Idiosyncratic
+臨床前的, Idiosyncratic
+產品, Idiosyncratic
+產品發展, Idiosyncratic
+產品組合, Idiosyncratic
+產品性能, Idiosyncratic
+生產, Idiosyncratic
+產出, Idiosyncratic
+產製, Idiosyncratic
+所有者的, Idiosyncratic
+持有人的, Idiosyncratic
+獨佔的, Idiosyncratic
+專利的, Idiosyncratic
+所有人, Idiosyncratic
+所有物, Idiosyncratic
+所有權人, Idiosyncratic
+曝光度, Idiosyncratic
+知名度, Idiosyncratic
+消息報導, Idiosyncratic
+公共報導, Idiosyncratic
+冗贅, Idiosyncratic
+贅餘, Idiosyncratic
+裁員, Idiosyncratic
+依賴主要客戶, Idiosyncratic
+消費者, Idiosyncratic
+依賴主要供應商, Idiosyncratic
+報告控制, Idiosyncratic
+匯報管理, Idiosyncratic
+研究發展, Idiosyncratic
+重整, Idiosyncratic
+重組, Idiosyncratic
+重構的實行, Idiosyncratic
+重構的實施, Idiosyncratic
+Sarbanes-Oxley 法案, Idiosyncratic
+沙賓法案, Idiosyncratic
+SARS, Idiosyncratic
+有價證券, Idiosyncratic
+證券, Idiosyncratic
+擔保品, Idiosyncratic
+短缺, Idiosyncratic
+短少, Idiosyncratic
+單獨顧客, Idiosyncratic
+單一客戶, Idiosyncratic
+單獨供應商, Idiosyncratic
+單一供應商, Idiosyncratic
+軟體, Idiosyncratic
+唯一供應商, Idiosyncratic
+獨家供應商, Idiosyncratic
+特殊目的機構, Idiosyncratic
+特殊目的公司, Idiosyncratic
+特殊目的機構, Idiosyncratic
+特殊目的公司, Idiosyncratic
+特殊目的機構, Idiosyncratic
+特殊目的公司, Idiosyncratic
+供應商罷工, Idiosyncratic
+供應鏈合併效果, Idiosyncratic
+供應商共同合作, Idiosyncratic
+關稅制度, Idiosyncratic
+稅率體系, Idiosyncratic
+過時工業, Idiosyncratic
+技術報廢, Idiosyncratic
+技術過時, Idiosyncratic
+生產技術, Idiosyncratic
+技術, Idiosyncratic
+科技, Idiosyncratic
+生產技術, Idiosyncratic
+技術, Idiosyncratic
+科技, Idiosyncratic
+商標, Idiosyncratic
+訓練, Idiosyncratic
+工會選舉, Idiosyncratic
+易變的權益實體, Idiosyncratic
+易變的權益實體, Idiosyncratic
+易變的權益實體, Idiosyncratic
+氣象, Idiosyncratic
+天氣, Idiosyncratic
+網路安全措施, Idiosyncratic
+不利的判決, Legal & Regulatory
+不利的評價, Legal & Regulatory
+不利的裁決, Legal & Regulatory
+不利的仲裁, Legal & Regulatory
+不利的審判, Legal & Regulatory
+不利的判例, Legal & Regulatory
+反托拉斯, Legal & Regulatory
+反壟斷, Legal & Regulatory
+意外事故, Legal & Regulatory
+計入, Legal & Regulatory
+加計, Legal & Regulatory
+集體訴訟?, Legal & Regulatory
+服從, Legal & Regulatory
+遵守, Legal & Regulatory
+應允, Legal & Regulatory
+答應, Legal & Regulatory
+順從, Legal & Regulatory
+盲從, Legal & Regulatory
+同意, Legal & Regulatory
+利益衝突, Legal & Regulatory
+汙染, Legal & Regulatory
+被告, Legal & Regulatory
+解除管制, Legal & Regulatory
+實施新標準的影響, Legal & Regulatory
+實施新方法的影響, Legal & Regulatory
+裁決的強制性, Legal & Regulatory
+仲裁的強制性, Legal & Regulatory
+審判的強制性, Legal & Regulatory
+判例的強制性, Legal & Regulatory
+評價的強制性, Legal & Regulatory
+執行, Legal & Regulatory
+強制執行, Legal & Regulatory
+環境, Legal & Regulatory
+食品藥物管理局的批准, Legal & Regulatory
+聯邦, Legal & Regulatory
+罰款, Legal & Regulatory
+詐欺, Legal & Regulatory
+舞弊, Legal & Regulatory
+政府調查, Legal & Regulatory
+政府審查, Legal & Regulatory
+行政審查, Legal & Regulatory
+行政調查, Legal & Regulatory
+政府政策, Legal & Regulatory
+政府認可, Legal & Regulatory
+行政批准, Legal & Regulatory
+有害, Legal & Regulatory
+風險因素, Legal & Regulatory
+國際財務報導準則, Legal & Regulatory
+國際財務報導準則, Legal & Regulatory
+加害, Legal & Regulatory
+傷害, Legal & Regulatory
+詢問, Legal & Regulatory
+查詢, Legal & Regulatory
+詢問, Legal & Regulatory
+查詢, Legal & Regulatory
+智慧財產, Legal & Regulatory
+檢查, Legal & Regulatory
+立法, Legal & Regulatory
+訴訟, Legal & Regulatory
+損害賠償, Legal & Regulatory
+賠償金, Legal & Regulatory
+罰款, Legal & Regulatory
+未了訴訟, Legal & Regulatory
+原告, Legal & Regulatory
+可能的重述, Legal & Regulatory
+可能的重申, Legal & Regulatory
+潛在訴訟, Legal & Regulatory
+可能訴訟, Legal & Regulatory
+產品責任, Legal & Regulatory
+行政管制, Legal & Regulatory
+管制, Legal & Regulatory
+管制認可, Legal & Regulatory
+管制批准, Legal & Regulatory
+規定認可, Legal & Regulatory
+規定批准, Legal & Regulatory
+限制認可, Legal & Regulatory
+限制批准, Legal & Regulatory
+規定變更, Legal & Regulatory
+規定變革, Legal & Regulatory
+規定改變, Legal & Regulatory
+管制變更, Legal & Regulatory
+管制改變, Legal & Regulatory
+管制變革, Legal & Regulatory
+限制變革, Legal & Regulatory
+限制變更, Legal & Regulatory
+限制改變, Legal & Regulatory
+法規符合性, Legal & Regulatory
+規定的環境, Legal & Regulatory
+限制的環境, Legal & Regulatory
+受管制的環境, Legal & Regulatory
+關係人, Legal & Regulatory
+補救, Legal & Regulatory
+整治, Legal & Regulatory
+重編報表, Legal & Regulatory
+安全, Legal & Regulatory
+超級基金, Legal & Regulatory
+會計估計的不確定性, Legal & Regulatory
+阿富汗, Systematic
+總合需求, Systematic
+亞洲危機, Systematic
+亞洲風暴, Systematic
+產業景氣, Systematic
+催繳股款, Systematic
+能量，產能, Systematic
+煤；石灰, Systematic
+消費品, Systematic
+競爭, Systematic
+競爭者, Systematic
+互補品, Systematic
+集中度, Systematic
+消費者信心, Systematic
+消費者支出, Systematic
+消費, Systematic
+貨幣瓦解, Systematic
+通貨瓦解, Systematic
+幣值波動, Systematic
+循環, Systematic
+需求, Systematic
+即期, Systematic
+衍生性金融商品, Systematic
+折現, Systematic
+折扣, Systematic
+經濟學, Systematic
+經濟條件, Systematic
+經濟衰退, Systematic
+經濟成長, Systematic
+經濟增長, Systematic
+經濟不確定的狀況; 經濟疑慮, Systematic
+經濟, Systematic
+電力, Systematic
+電氣, Systematic
+能量, Systematic
+歐盟, Systematic
+歐盟, Systematic
+歐元, Systematic
+歐盟, Systematic
+匯率, Systematic
+金融風暴, Systematic
+財政政策, Systematic
+外幣, Systematic
+國外匯兌, Systematic
+外匯, Systematic
+遠期契約, Systematic
+燃料, Systematic
+期貨, Systematic
+遠期交易, Systematic
+石油, Systematic
+汽油, Systematic
+國內生產毛額, Systematic
+一般業務風險, Systematic
+一般條件, Systematic
+一般狀況, Systematic
+一般經濟狀況, Systematic
+金, Systematic
+黃金, Systematic
+成長率, Systematic
+套利, Systematic
+避險, Systematic
+住宅, Systematic
+新屋開工率, Systematic
+住房開工率, Systematic
+住宅動工指數, Systematic
+產業景氣, Systematic
+產業環境, Systematic
+通貨膨脹, Systematic
+伊拉克, Systematic
+市場, Systematic
+高層, Systematic
+推銷, Systematic
+市價, Systematic
+市場需求, Systematic
+市場供給, Systematic
+市場, Systematic
+市集, Systematic
+材料, Systematic
+金屬, Systematic
+中東, Systematic
+礦物, Systematic
+採礦, Systematic
+礦業, Systematic
+貨幣政策, Systematic
+抵押, Systematic
+天然氣, Systematic
+陳廢, Systematic
+廢棄, Systematic
+過時, Systematic
+油, Systematic
+石油, Systematic
+操作環境, Systematic
+運行環境, Systematic
+預約, Systematic
+選擇權??, Systematic
+買賣權, Systematic
+取捨權, Systematic
+礦石, Systematic
+礦物, Systematic
+存貨過多, Systematic
+進貨過多, Systematic
+比索, Systematic
+石油, Systematic
+原油, Systematic
+政治氣候, Systematic
+政局不穩, Systematic
+政治動亂, Systematic
+磅, Systematic
+價格壓力, Systematic
+價格, Systematic
+定價能力, Systematic
+原料, Systematic
+實, Systematic
+實質, Systematic
+不動產投資信託, Systematic
+不景氣, Systematic
+不動產投資信託, Systematic
+不動產投資信託, Systematic
+人民幣, Systematic
+人民幣, Systematic
+盧布, Systematic
+盧比, Systematic
+儲蓄, Systematic
+季節性, Systematic
+911, Systematic
+短少, Systematic
+空頭, Systematic
+銀, Systematic
+鋼, Systematic
+替代品, Systematic
+交換契約, Systematic
+換匯, Systematic
+恐怖主義, Systematic
+美金, Systematic
+美元, Systematic
+標的, Systematic
+附屬, Systematic
+滯銷品, Systematic
+滯銷存貨, Systematic
+戰爭, Systematic
+日圓, Systematic
+元, Systematic
+圓, Systematic
+避稅行為, Tax
+欠繳稅款, Tax
+欠稅, Tax
+遞延所得稅資產, Tax
+遞延所得稅負債, Tax
+營業稅, Tax
+貨物稅, Tax
+消費稅, Tax
+美國財務會計準則委員會48號公報, Tax
+國稅局, Tax
+國稅局, Tax
+國稅局, Tax
+國稅局稽核, Tax
+國稅局審查, Tax
+國稅局審判, Tax
+國稅局判決, Tax
+盈虧互抵, Tax
+盈虧互抵, Tax
+財產稅, Tax
+備付所得稅, Tax
+州稅, Tax
+國稅, Tax
+稅, Tax
+租稅, Tax
+稅金, Tax
+稅務審計, Tax
+稅務稽查, Tax
+稅務審查, Tax
+稅捐機關, Tax
+納稅義務, Tax
+應納稅額, Tax
+稅務罰款, Tax
+稅務罰金, Tax
+課稅, Tax
+稅務風險估列, Tax
+加值稅, Tax
+增值稅, Tax
