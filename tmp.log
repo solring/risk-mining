@@ -1,0 +1,4282 @@
+process file ./YR/101-risk_disc/.DS_Store
+process file ./YR/101-risk_disc/1101台泥.txt
+output: rate
+output: merge
+output: other
+process file ./YR/101-risk_disc/1102亞泥.txt
+output: rate
+output: investment
+process file ./YR/101-risk_disc/1103嘉泥.txt
+output: rm
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1108幸福.txt
+output: else
+process file ./YR/101-risk_disc/1109信大水泥.txt
+output: purchsales
+output: shares
+output: lawsuit
+process file ./YR/101-risk_disc/1110東泥.txt
+output: rate
+output: investment
+output: manage
+output: else
+process file ./YR/101-risk_disc/1201味全.txt
+process file ./YR/101-risk_disc/1203味王.txt
+output: rate
+output: rd
+process file ./YR/101-risk_disc/1210大成.txt
+output: investment
+output: rd
+output: merge
+process file ./YR/101-risk_disc/1213大西洋.txt
+output: rd
+output: techindustry
+output: merge
+output: shares
+process file ./YR/101-risk_disc/1215卜蜂.txt
+output: rule
+output: techindustry
+output: merge
+output: purchsales
+process file ./YR/101-risk_disc/1217愛之味.txt
+output: techindustry
+output: image
+output: else
+process file ./YR/101-risk_disc/1218泰山.txt
+output: rate
+process file ./YR/101-risk_disc/1220台榮.txt
+output: techindustry
+output: merge
+output: else
+process file ./YR/101-risk_disc/1225福懋油.txt
+process file ./YR/101-risk_disc/1227佳格.txt
+output: rd
+output: rule
+output: image
+process file ./YR/101-risk_disc/1229聯華.txt
+output: rm
+output: investment
+output: rd
+output: image
+output: merge
+process file ./YR/101-risk_disc/1231聯華食品.txt
+output: investment
+output: rule
+output: expansion
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1232大統益.txt
+output: investment
+output: merge
+process file ./YR/101-risk_disc/1235興泰.txt
+output: investment
+output: techindustry
+output: merge
+output: manage
+output: else
+process file ./YR/101-risk_disc/1236宏亞.txt
+output: techindustry
+process file ./YR/101-risk_disc/1301台塑.txt
+output: investment
+output: image
+output: expansion
+output: manage
+process file ./YR/101-risk_disc/1303南亞.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: manage
+output: lawsuit
+output: else
+output: rm
+process file ./YR/101-risk_disc/1304台聚.txt
+output: rm
+output: else
+process file ./YR/101-risk_disc/1305華夏.txt
+output: rm
+output: techindustry
+output: purchsales
+output: manage
+output: other
+process file ./YR/101-risk_disc/1307三芳.txt
+output: rate
+output: investment
+output: rd
+output: image
+output: shares
+process file ./YR/101-risk_disc/1308亞聚.txt
+output: rule
+output: image
+output: shares
+output: other
+process file ./YR/101-risk_disc/1309台達.txt
+output: rm
+output: expansion
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1310台苯.txt
+process file ./YR/101-risk_disc/1315達新.txt
+output: rule
+process file ./YR/101-risk_disc/1316上曜.txt
+output: rate
+output: techindustry
+output: image
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/1321大洋.txt
+output: rule
+process file ./YR/101-risk_disc/1323永裕.txt
+output: techindustry
+output: shares
+output: lawsuit
+process file ./YR/101-risk_disc/1325恒大.txt
+output: investment
+output: techindustry
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1338F-廣華.txt
+output: rm
+output: rate
+output: rate
+output: rd
+output: rule
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/1339昭輝.txt
+output: merge
+output: purchsales
+process file ./YR/101-risk_disc/1402遠紡.txt
+output: investment
+output: techindustry
+output: manage
+process file ./YR/101-risk_disc/1410南染.txt
+output: investment
+output: techindustry
+output: expansion
+output: purchsales
+output: shares
+output: manage
+process file ./YR/101-risk_disc/1413宏洲.txt
+output: investment
+output: image
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/1414東和.txt
+output: investment
+output: image
+output: purchsales
+output: lawsuit
+process file ./YR/101-risk_disc/1416廣豐.txt
+output: investment
+output: shares
+output: manage
+process file ./YR/101-risk_disc/1417嘉裕.txt
+output: rate
+output: investment
+output: image
+output: expansion
+output: manage
+output: lawsuit
+output: other
+process file ./YR/101-risk_disc/1418東華.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+process file ./YR/101-risk_disc/1419新紡.txt
+output: investment
+output: rule
+output: expansion
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1432大魯閣.txt
+output: rd
+output: rule
+output: techindustry
+process file ./YR/101-risk_disc/1434福懋興業.txt
+output: investment
+output: rd
+output: techindustry
+process file ./YR/101-risk_disc/1435中福.txt
+output: investment
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: shares
+output: manage
+process file ./YR/101-risk_disc/1436福益.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1440南紡.txt
+output: investment
+output: rule
+output: techindustry
+output: image
+output: shares
+output: lawsuit
+process file ./YR/101-risk_disc/1442名軒.txt
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1444力麗.txt
+output: image
+output: lawsuit
+process file ./YR/101-risk_disc/1445大宇.txt
+output: rate
+output: investment
+output: merge
+output: purchsales
+output: else
+process file ./YR/101-risk_disc/1447力鵬.txt
+output: investment
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/1451年興.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+process file ./YR/101-risk_disc/1452宏益.txt
+output: investment
+process file ./YR/101-risk_disc/1453大將.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+process file ./YR/101-risk_disc/1454台富.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+process file ./YR/101-risk_disc/1457宜進.txt
+output: rd
+output: manage
+process file ./YR/101-risk_disc/1459聯發.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: purchsales
+output: shares
+output: lawsuit
+process file ./YR/101-risk_disc/1463強盛.txt
+output: rd
+process file ./YR/101-risk_disc/1464得力.txt
+output: rule
+process file ./YR/101-risk_disc/1466聚隆.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: else
+process file ./YR/101-risk_disc/1468昶和.txt
+output: investment
+output: shares
+output: manage
+process file ./YR/101-risk_disc/1469理隆.txt
+output: rate
+output: rd
+output: lawsuit
+process file ./YR/101-risk_disc/1470大統.txt
+output: rule
+process file ./YR/101-risk_disc/1471首利.txt
+output: rd
+output: rule
+output: lawsuit
+process file ./YR/101-risk_disc/1473台南.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+process file ./YR/101-risk_disc/1474弘裕.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: purchsales
+output: shares
+output: manage
+process file ./YR/101-risk_disc/1477聚陽.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+process file ./YR/101-risk_disc/1504東元.txt
+output: investment
+output: rd
+output: techindustry
+output: merge
+output: expansion
+output: shares
+process file ./YR/101-risk_disc/1506正道.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1512瑞利.txt
+output: rate
+output: rd
+output: rule
+output: purchsales
+output: else
+process file ./YR/101-risk_disc/1514亞力.txt
+output: investment
+output: rule
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1517利奇.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/1521大億.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1522堤維西.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1527鑽全.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+process file ./YR/101-risk_disc/1529樂士.txt
+output: investment
+output: rule
+output: merge
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1536和大.txt
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+process file ./YR/101-risk_disc/1537廣隆.txt
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: lawsuit
+process file ./YR/101-risk_disc/1538正峰新.txt
+output: rule
+output: techindustry
+output: purchsales
+process file ./YR/101-risk_disc/1539巨庭.txt
+process file ./YR/101-risk_disc/1541錩泰.txt
+output: rd
+output: merge
+output: shares
+process file ./YR/101-risk_disc/1582信錦.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1583程泰.txt
+output: rd
+output: rule
+output: expansion
+output: shares
+output: manage
+process file ./YR/101-risk_disc/1590F-亞德.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1603華電.txt
+output: investment
+output: rule
+output: image
+output: merge
+output: expansion
+output: else
+process file ./YR/101-risk_disc/1604聲寶.txt
+output: investment
+output: rule
+output: techindustry
+output: image
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1605華新.txt
+output: rate
+output: investment
+output: rd
+output: manage
+output: lawsuit
+output: rm
+process file ./YR/101-risk_disc/1609大亞.txt
+output: investment
+output: rule
+output: techindustry
+output: merge
+process file ./YR/101-risk_disc/1612宏泰.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: else
+process file ./YR/101-risk_disc/1613台一.txt
+output: rate
+output: investment
+output: rule
+process file ./YR/101-risk_disc/1614三洋.txt
+output: investment
+output: rule
+output: techindustry
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1615大山.txt
+output: investment
+output: rd
+output: expansion
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/1626F-艾美.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/1701中化.txt
+output: rate
+output: rule
+output: image
+output: purchsales
+output: shares
+output: lawsuit
+process file ./YR/101-risk_disc/1707葡萄王.txt
+output: investment
+output: rd
+process file ./YR/101-risk_disc/1709和益.txt
+process file ./YR/101-risk_disc/1710東聯.txt
+output: rate
+output: rd
+output: expansion
+output: purchsales
+process file ./YR/101-risk_disc/1711永光.txt
+output: investment
+output: techindustry
+output: shares
+output: manage
+process file ./YR/101-risk_disc/1713國化.txt
+output: investment
+output: rd
+output: image
+output: merge
+process file ./YR/101-risk_disc/1715亞化.txt
+output: rd
+output: purchsales
+output: else
+process file ./YR/101-risk_disc/1717長興.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: else
+process file ./YR/101-risk_disc/1718中纖.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: else
+process file ./YR/101-risk_disc/1720生達.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+process file ./YR/101-risk_disc/1721三晃.txt
+output: other
+output: techindustry
+process file ./YR/101-risk_disc/1722台肥.txt
+output: rd
+output: techindustry
+process file ./YR/101-risk_disc/1723中碳.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: manage
+process file ./YR/101-risk_disc/1726永記.txt
+output: else
+process file ./YR/101-risk_disc/1727中華化.txt
+output: rm
+output: investment
+output: manage
+process file ./YR/101-risk_disc/1729必翔.txt
+output: rd
+process file ./YR/101-risk_disc/1730花仙子.txt
+output: image
+output: manage
+output: else
+process file ./YR/101-risk_disc/1732毛寶.txt
+output: rate
+output: investment
+output: rd
+process file ./YR/101-risk_disc/1734杏輝.txt
+process file ./YR/101-risk_disc/1735日勝化.txt
+output: rate
+output: else
+process file ./YR/101-risk_disc/1737臺鹽.txt
+output: investment
+output: rule
+output: else
+process file ./YR/101-risk_disc/1752南光.txt
+output: investment
+output: purchsales
+output: shares
+process file ./YR/101-risk_disc/1773勝一.txt
+output: investment
+output: rd
+output: expansion
+output: shares
+process file ./YR/101-risk_disc/1783和康生.txt
+output: investment
+output: rd
+output: else
+process file ./YR/101-risk_disc/1786科妍.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/1789神隆.txt
+output: investment
+process file ./YR/101-risk_disc/1805寶徠.txt
+output: investment
+output: other
+process file ./YR/101-risk_disc/1806冠軍.txt
+output: rate
+process file ./YR/101-risk_disc/1808潤隆.txt
+output: investment
+output: else
+process file ./YR/101-risk_disc/1809中釉.txt
+output: techindustry
+output: merge
+output: purchsales
+process file ./YR/101-risk_disc/1903士紙.txt
+output: techindustry
+output: image
+output: purchsales
+output: else
+process file ./YR/101-risk_disc/1904正隆.txt
+output: image
+output: purchsales
+output: else
+process file ./YR/101-risk_disc/1905華紙.txt
+output: investment
+output: rule
+output: purchsales
+output: else
+process file ./YR/101-risk_disc/1906寶隆.txt
+output: rate
+output: rule
+output: techindustry
+process file ./YR/101-risk_disc/1909榮成.txt
+output: rate
+output: rule
+output: expansion
+process file ./YR/101-risk_disc/2006東鋼.txt
+output: rule
+output: techindustry
+output: merge
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2007燁興.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+process file ./YR/101-risk_disc/2010春源.txt
+output: investment
+output: rd
+output: rule
+output: manage
+process file ./YR/101-risk_disc/2012春雨.txt
+output: shares
+output: else
+process file ./YR/101-risk_disc/2013中鋼構.txt
+output: investment
+output: rule
+output: techindustry
+output: image
+output: else
+process file ./YR/101-risk_disc/2015豐興.txt
+output: rate
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2017官田鋼.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2022聚亨.txt
+output: rd
+output: rule
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+process file ./YR/101-risk_disc/2024志聯.txt
+output: rd
+output: rule
+output: techindustry
+output: expansion
+output: purchsales
+output: manage
+process file ./YR/101-risk_disc/2025千興.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: manage
+output: else
+process file ./YR/101-risk_disc/2029盛餘.txt
+output: investment
+output: rd
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+process file ./YR/101-risk_disc/2032新鋼.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2033佳大.txt
+output: investment
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2034允強.txt
+output: investment
+output: rd
+output: rule
+output: merge
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2038海光.txt
+output: investment
+output: purchsales
+output: shares
+output: lawsuit
+process file ./YR/101-risk_disc/2102泰豐.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: else
+process file ./YR/101-risk_disc/2103台橡.txt
+output: investment
+output: rd
+output: rule
+output: image
+output: merge
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2104中橡.txt
+output: rd
+output: rule
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+process file ./YR/101-risk_disc/2105正新.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: merge
+process file ./YR/101-risk_disc/2108南帝.txt
+output: investment
+output: shares
+process file ./YR/101-risk_disc/2109華豐.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2201裕隆.txt
+output: investment
+output: rd
+output: rule
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2204中華.txt
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2206三陽.txt
+output: investment
+output: rd
+output: rule
+output: image
+output: merge
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2207和泰車.txt
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2228劍麟.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: image
+output: merge
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2308台達電.txt
+output: rm
+output: investment
+output: rd
+output: rule
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2316楠梓電.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2321東訊.txt
+output: rate
+output: purchsales
+output: manage
+output: else
+process file ./YR/101-risk_disc/2323中環.txt
+output: investment
+output: rd
+output: image
+output: purchsales
+process file ./YR/101-risk_disc/2324仁寶.txt
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2328廣宇.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+process file ./YR/101-risk_disc/2329華泰.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2330台積電.txt
+output: expansion
+output: purchsales
+output: merge
+output: rate
+output: investment
+output: else
+process file ./YR/101-risk_disc/2332友訊.txt
+output: investment
+output: purchsales
+output: else
+process file ./YR/101-risk_disc/2337旺宏.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2338光罩.txt
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2340光磊.txt
+output: rd
+output: manage
+output: else
+process file ./YR/101-risk_disc/2345智邦.txt
+output: investment
+output: rd
+output: rule
+output: manage
+output: else
+process file ./YR/101-risk_disc/2351順德.txt
+output: rate
+output: investment
+output: techindustry
+output: image
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2352佳世達.txt
+output: investment
+output: rd
+output: techindustry
+output: merge
+output: else
+process file ./YR/101-risk_disc/2353宏碁.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: else
+output: expansion
+process file ./YR/101-risk_disc/2355敬鵬.txt
+output: investment
+output: rd
+output: rule
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2358美格.txt
+output: investment
+output: rd
+output: rule
+output: else
+process file ./YR/101-risk_disc/2361鴻友.txt
+output: investment
+output: rd
+output: expansion
+process file ./YR/101-risk_disc/2362藍天.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: image
+output: merge
+output: purchsales
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2367燿華.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: lawsuit
+process file ./YR/101-risk_disc/2368金像電.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2371大同.txt
+output: image
+output: shares
+process file ./YR/101-risk_disc/2373震旦行.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/2374佳能.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2377微星.txt
+output: investment
+output: rd
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2383台光電.txt
+output: techindustry
+output: image
+output: merge
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2384勝華.txt
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: manage
+output: else
+process file ./YR/101-risk_disc/2385群光.txt
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2387精元.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2388威盛.txt
+output: investment
+output: rd
+output: rule
+output: image
+output: merge
+output: else
+process file ./YR/101-risk_disc/2390云辰.txt
+output: rd
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2392正崴.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2395研華.txt
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2399映泰.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: manage
+process file ./YR/101-risk_disc/2404漢唐.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2406國碩.txt
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2409友達.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2412中華電.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: image
+output: image
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2413環科.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2414精技.txt
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2419仲琦.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2420新巨.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2424隴華.txt
+output: investment
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2427三商電.txt
+output: rate
+output: investment
+output: rd
+output: rule
+process file ./YR/101-risk_disc/2428興勤.txt
+output: rate
+output: techindustry
+output: merge
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2430燦坤.txt
+output: rate
+output: merge
+output: lawsuit
+process file ./YR/101-risk_disc/2433互盛電.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2434統懋.txt
+output: investment
+output: rd
+output: rule
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2436偉詮電.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+process file ./YR/101-risk_disc/2439美律.txt
+output: investment
+output: rd
+output: rule
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+output: rm
+process file ./YR/101-risk_disc/2442新美齊.txt
+output: rd
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2444友旺.txt
+output: merge
+output: expansion
+output: shares
+output: manage
+process file ./YR/101-risk_disc/2448晶電.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2451創見.txt
+output: investment
+output: rd
+output: image
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2453凌群.txt
+output: rate
+output: merge
+process file ./YR/101-risk_disc/2454聯發科.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2455全新.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+process file ./YR/101-risk_disc/2459敦吉.txt
+output: investment
+output: rd
+output: rule
+output: merge
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2460建通.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2461光群雷.txt
+output: rate
+output: investment
+output: rd
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2465麗臺.txt
+output: rate
+output: investment
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2467志聖.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2471資通.txt
+output: rate
+output: investment
+output: techindustry
+output: purchsales
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2472立隆電.txt
+output: rate
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2477美隆電.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: merge
+output: expansion
+output: purchsales
+output: other
+process file ./YR/101-risk_disc/2478大毅.txt
+output: rate
+output: rd
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2480敦陽科.txt
+output: investment
+output: rd
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: else
+process file ./YR/101-risk_disc/2483百容.txt
+output: rate
+output: investment
+output: rule
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2484希華.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: image
+process file ./YR/101-risk_disc/2485兆赫.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2488漢平.txt
+output: rate
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2491吉祥全.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2492華新科.txt
+output: rd
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2499東貝.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: merge
+output: purchsales
+output: lawsuit
+process file ./YR/101-risk_disc/2504國產.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2505國揚.txt
+output: investment
+output: techindustry
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: other
+process file ./YR/101-risk_disc/2506太設.txt
+output: rate
+output: rd
+output: rule
+output: image
+output: manage
+output: lawsuit
+output: other
+process file ./YR/101-risk_disc/2509全坤建.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2511太子.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/2514龍邦.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2515中工.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2520冠德.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: merge
+output: expansion
+output: manage
+output: else
+output: rm
+process file ./YR/101-risk_disc/2527宏璟.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/2528皇普.txt
+output: rate
+output: investment
+output: rule
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2530華建.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/2535達欣工.txt
+output: rate
+output: investment
+output: rd
+output: image
+output: merge
+output: expansion
+output: manage
+output: else
+output: other
+process file ./YR/101-risk_disc/2540愛山林.txt
+output: rate
+output: investment
+output: rd
+output: merge
+output: shares
+process file ./YR/101-risk_disc/2542興富發.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2546根基.txt
+output: investment
+output: rd
+output: rule
+output: image
+output: merge
+output: purchsales
+output: manage
+output: else
+output: rm
+output: other
+process file ./YR/101-risk_disc/2548華固.txt
+output: rate
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/2597潤弘.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/2601益航.txt
+output: rate
+output: investment
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2606裕民.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2608大榮.txt
+output: rate
+output: investment
+output: rule
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2609陽明.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: investment
+process file ./YR/101-risk_disc/2610華航.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/2612中航.txt
+output: rate
+output: techindustry
+output: other
+process file ./YR/101-risk_disc/2613中櫃.txt
+output: rate
+output: rd
+output: techindustry
+output: image
+output: purchsales
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2614東森.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: rm
+output: other
+process file ./YR/101-risk_disc/2615萬海.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2616山隆.txt
+output: rate
+output: investment
+output: rule
+output: purchsales
+output: shares
+output: manage
+output: else
+process file ./YR/101-risk_disc/2618長榮航.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/2701萬企.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/2702華園.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2704國賓.txt
+output: rm
+output: investment
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: else
+output: other
+process file ./YR/101-risk_disc/2707晶華.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/2712遠雄來.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/2722夏都.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/2727王品.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/2841台開.txt
+output: rate
+output: investment
+output: purchsales
+output: shares
+output: other
+process file ./YR/101-risk_disc/2901欣欣.txt
+process file ./YR/101-risk_disc/2904匯僑.txt
+output: investment
+process file ./YR/101-risk_disc/2905三商行.txt
+output: investment
+output: rd
+output: rule
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/2913農林.txt
+output: expansion
+output: other
+process file ./YR/101-risk_disc/2915潤泰全.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3002歐格.txt
+output: rate
+output: investment
+output: rd
+output: shares
+output: else
+process file ./YR/101-risk_disc/3004豐達科.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: else
+process file ./YR/101-risk_disc/3008大立光.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3010華立.txt
+output: rm
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: purchsales
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/3011今皓.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3013晟銘電.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3014聯陽.txt
+output: rate
+output: investment
+output: rd
+output: purchsales
+output: else
+process file ./YR/101-risk_disc/3016嘉晶.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: purchsales
+output: shares
+output: rm
+process file ./YR/101-risk_disc/3022威強電.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3024憶聲.txt
+output: rate
+output: investment
+output: rd
+output: shares
+output: else
+process file ./YR/101-risk_disc/3025星通.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: purchsales
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3027盛達.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3029零壹.txt
+output: rate
+output: rd
+output: techindustry
+output: else
+process file ./YR/101-risk_disc/3030德律.txt
+output: purchsales
+output: shares
+output: lawsuit
+output: other
+process file ./YR/101-risk_disc/3031佰鴻.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3032偉訓.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+process file ./YR/101-risk_disc/3033威健.txt
+output: rate
+output: rd
+output: techindustry
+output: purchsales
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/3034聯詠.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3036文曄.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3037欣興.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3038全台.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3042晶技.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3043科風.txt
+output: rate
+output: investment
+output: rd
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/3047訊舟.txt
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3048益登.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: purchsales
+output: manage
+output: else
+process file ./YR/101-risk_disc/3050鈺德.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3051力特.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3052夆典.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/3054萬國.txt
+output: rate
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3057喬鼎.txt
+output: image
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3058立德.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: expansion
+output: purchsales
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/3059華晶科.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: image
+output: merge
+output: expansion
+output: shares
+output: manage
+output: else
+process file ./YR/101-risk_disc/3061璨圓.txt
+output: rate
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/3062建漢.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: purchsales
+output: shares
+output: else
+process file ./YR/101-risk_disc/3090日電貿.txt
+output: rate
+output: rule
+output: shares
+output: else
+process file ./YR/101-risk_disc/3094聯傑.txt
+output: rate
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3130一零四.txt
+output: rate
+output: investment
+output: rd
+output: image
+process file ./YR/101-risk_disc/3164景岳.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3167大量.txt
+output: rate
+output: investment
+output: rule
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/3231緯創.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3296勝德.txt
+output: rate
+output: investment
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3311閎暉.txt
+output: rate
+output: rd
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: else
+process file ./YR/101-risk_disc/3312弘憶股.txt
+output: rate
+output: investment
+output: techindustry
+output: image
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/3315宣昶.txt
+output: rate
+output: rd
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: else
+process file ./YR/101-risk_disc/3338泰碩.txt
+output: rate
+output: investment
+output: techindustry
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/3356奇偶.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: manage
+process file ./YR/101-risk_disc/3380明泰.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3383新世紀.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3443創意.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3454晶睿.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/3474華亞科.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: shares
+output: manage
+output: else
+process file ./YR/101-risk_disc/3481群創.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/3494誠研.txt
+output: rate
+output: investment
+output: image
+output: merge
+output: purchsales
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3501維熹.txt
+output: rate
+output: rd
+output: merge
+output: expansion
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3514昱晶.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3518柏騰.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/3519綠能.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3532台勝科.txt
+output: rate
+output: investment
+output: techindustry
+output: image
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3533嘉澤.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: image
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3535晶彩科.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3536誠創.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3550聯穎.txt
+output: rate
+output: rd
+output: techindustry
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3557嘉威.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3561昇陽科.txt
+output: rate
+output: investment
+output: techindustry
+output: merge
+process file ./YR/101-risk_disc/3573穎台.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: image
+output: purchsales
+output: shares
+output: manage
+output: else
+process file ./YR/101-risk_disc/3576新日光.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3579尚志.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+process file ./YR/101-risk_disc/3583辛耘.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3584介面.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/3588通嘉.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3591艾笛森.txt
+output: investment
+output: rd
+output: rule
+output: image
+output: purchsales
+output: shares
+process file ./YR/101-risk_disc/3593力銘.txt
+output: rate
+output: investment
+output: rd
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/3596智易.txt
+output: rate
+output: techindustry
+output: shares
+output: else
+process file ./YR/101-risk_disc/3607谷崧.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/3645達邁.txt
+output: rate
+output: rule
+output: merge
+output: else
+process file ./YR/101-risk_disc/3669圓展.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: else
+process file ./YR/101-risk_disc/3673F-TPK.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3679新至陞.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: manage
+output: else
+process file ./YR/101-risk_disc/3686達能.txt
+output: rate
+output: rate
+output: rate
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3694海華.txt
+output: rate
+output: investment
+output: rule
+output: image
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3698隆達.txt
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+process file ./YR/101-risk_disc/3702大聯大.txt
+output: investment
+output: expansion
+output: purchsales
+output: merge
+output: rd
+output: image
+output: manage
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3703欣陸.txt
+output: rate
+output: investment
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/3704合勤控.txt
+output: rate
+output: rate
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: else
+output: lawsuit
+output: other
+process file ./YR/101-risk_disc/3705永信.txt
+output: rate
+output: rd
+output: techindustry
+output: purchsales
+output: else
+process file ./YR/101-risk_disc/4104佳醫.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/4142國光生.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/4144F-康聯.txt
+output: rm
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: expansion
+output: purchsales
+output: manage
+process file ./YR/101-risk_disc/4164承業醫.txt
+output: rate
+output: rd
+output: rule
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/4426利勤.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: expansion
+output: purchsales
+process file ./YR/101-risk_disc/4526東台.txt
+output: rate
+output: rd
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/4722國精化.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/4733上緯.txt
+output: rate
+output: investment
+output: rd
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/4737華廣.txt
+output: rate
+output: rd
+output: techindustry
+output: image
+output: merge
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/4746台耀.txt
+output: rate
+output: investment
+output: techindustry
+output: expansion
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/4915致伸.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/4919新唐.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: manage
+output: else
+process file ./YR/101-risk_disc/4930燦星網.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/4934太極.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: lawsuit
+process file ./YR/101-risk_disc/4935F-茂林.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/4942嘉彰.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: lawsuit
+process file ./YR/101-risk_disc/4956光鋐.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/4976佳凌.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/4977F-眾達.txt
+output: rate
+output: expansion
+output: purchsales
+output: lawsuit
+process file ./YR/101-risk_disc/5007三星.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/5234達興.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: purchsales
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/5259清惠.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/5269祥碩.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: else
+process file ./YR/101-risk_disc/5469瀚宇博.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/5471松翰.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/5484慧友.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/5515建國.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/5525順天.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/5533皇鼎.txt
+output: rate
+output: investment
+output: rd
+output: image
+output: merge
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: other
+process file ./YR/101-risk_disc/5607遠雄港.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/5608四維航.txt
+output: rate
+output: rule
+output: lawsuit
+process file ./YR/101-risk_disc/5871F-中租.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6115鎰勝.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/6120輔祥.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: shares
+output: else
+process file ./YR/101-risk_disc/6133金橋.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6145勁永.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6152百一.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6153嘉聯益.txt
+output: rate
+output: investment
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/6165捷泰.txt
+output: rate
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6172互億.txt
+output: rate
+output: rd
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6176瑞儀.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6177達麗.txt
+output: rate
+output: investment
+output: rule
+output: merge
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6184大豐電.txt
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/6191精成科.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: merge
+output: purchsales
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6196帆宣.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6197佳必琪.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: purchsales
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/6201亞弘電.txt
+output: rate
+process file ./YR/101-risk_disc/6202盛群.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6206飛捷.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6213聯茂.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: else
+process file ./YR/101-risk_disc/6214精誠.txt
+output: investment
+output: other
+output: lawsuit
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6215和椿.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: other
+process file ./YR/101-risk_disc/6224聚鼎.txt
+output: rate
+output: investment
+output: rd
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6226光鼎.txt
+output: rate
+output: rd
+process file ./YR/101-risk_disc/6235華孚.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6239力成.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6243迅杰.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: expansion
+output: purchsales
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6257矽格.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: expansion
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6277宏正.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: merge
+output: expansion
+output: purchsales
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6278台表科.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6281全國電.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6282康舒.txt
+output: rate
+output: investment
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6283淳安.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6285啟碁.txt
+output: rate
+output: investment
+output: merge
+output: expansion
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6286立錡.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/6412群電.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: expansion
+output: shares
+output: manage
+output: else
+process file ./YR/101-risk_disc/6504南六.txt
+output: rate
+output: rd
+output: rule
+output: purchsales
+output: shares
+output: other
+process file ./YR/101-risk_disc/6505台塑化.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: other
+process file ./YR/101-risk_disc/6605帝寶.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/8039台虹.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: image
+output: merge
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/8046南電.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: other
+output: else
+process file ./YR/101-risk_disc/8070長華.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/8072陞泰.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: purchsales
+output: shares
+output: manage
+output: else
+process file ./YR/101-risk_disc/8081致新.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/8103瀚荃.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/8110華東.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/8112至上.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/8131福懋科.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/8201無敵.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/8213志超.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/8215明基材.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/8271宇瞻.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/8404F-百和.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/8411F-福貞.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/8427F-基勝.txt
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/8926台汽電.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/8940新天地.txt
+output: rate
+output: investment
+output: rd
+output: techindustry
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/8996高力.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+process file ./YR/101-risk_disc/9802F-鈺齊.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/9902台火.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9904寶成.txt
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: purchsales
+output: shares
+output: image
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/9905大華.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9907統一實.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9908大台北.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: else
+process file ./YR/101-risk_disc/9910豐泰.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/9911櫻花.txt
+output: rate
+output: investment
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9914美利達.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9918欣天然.txt
+output: rate
+output: investment
+output: techindustry
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9919康那香.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: other
+process file ./YR/101-risk_disc/9921巨大.txt
+output: rate
+output: rd
+output: rule
+output: techindustry
+output: merge
+output: expansion
+output: purchsales
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9924福興.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/9926新海.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: other
+process file ./YR/101-risk_disc/9927泰銘.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9929秋雨.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: shares
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/9931欣高.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9933中鼎.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: other
+process file ./YR/101-risk_disc/9935慶豐富.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9937全國.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9938百和.txt
+output: rate
+output: techindustry
+output: expansion
+output: shares
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9941裕融.txt
+output: investment
+output: rd
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9942茂順.txt
+output: rm
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+process file ./YR/101-risk_disc/9943好樂迪.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: other
+process file ./YR/101-risk_disc/9945潤泰新.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: other
+process file ./YR/101-risk_disc/9946三發.txt
+output: rate
+output: investment
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+output: rm
+output: other
+process file ./YR/101-risk_disc/9958世紀鋼.txt
+output: rate
+output: investment
+output: rd
+output: rule
+output: techindustry
+output: image
+output: merge
+output: expansion
+output: purchsales
+output: shares
+output: manage
+output: lawsuit
+output: else
+finish. number of files processed: 473/4058

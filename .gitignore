@@ -1,4 +1,7 @@
 .DS_Store
-CKIPClient/input/.DS_Store
-CKIPClient/output/.DS_Store
-
+CKIPClient/99-risk_disc_ckip
+CKIPClient/100-risk_disc_ckip
+CKIPClient/101-risk_disc_ckip
+CKIPClient/prospectus_ckip
+YR/*
+Prospectus/*

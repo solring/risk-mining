@@ -15,7 +15,7 @@ do
     rm ./buffer/*
     cp $indir/$f ./buffer/.
 
-    java -jar CKIPClient.jar ckipsocket.propeties buffer/ $outdir/
+    java -jar ./CKIPClient/CKIPClient.jar ./CKIPClient/ckipsocket.propeties buffer/ $outdir
     echo "----------- $indir/$f processed --------------"
     sleep 10
 done

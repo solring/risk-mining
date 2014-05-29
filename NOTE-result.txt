@@ -1,0 +1,4 @@
+========= 各欄位說明 ========
+檔案名稱, 檔案總字數, 檔案總keyword數, Tax類字數, Legal類字數, Financial類字數, Systematic類字數, Idiosyncratic類字數, 
+(各tag部分的) 
+總字數, 總keyword數, Tax類字數, Legal類字數, Financial類字數, Systematic類字數,
